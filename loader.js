@@ -1,4 +1,4 @@
-// chargement acceuil
+// chargement pendant connexion au site
 const loader = document.querySelector('.loader');
 
 window.addEventListener('load', () => {
